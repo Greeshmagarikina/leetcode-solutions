@@ -15,8 +15,13 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0001-two-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
