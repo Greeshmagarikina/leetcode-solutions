@@ -42,3 +42,11 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | Hard       | 0      |
 
 Total Problems Solved: 0
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0009-palindrome-number) |
+<!---LeetCode Topics End-->
