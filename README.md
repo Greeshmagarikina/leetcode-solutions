@@ -16,6 +16,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | ------- |
 | [0001-two-sum](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0027-remove-element) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0136-single-number) |
 ## Hash Table
 |  |
@@ -38,4 +39,8 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0136-single-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
