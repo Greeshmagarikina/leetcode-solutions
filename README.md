@@ -15,6 +15,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0066-plus-one](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
 | ------- |
@@ -48,6 +49,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0412-fizz-buzz](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [2427-first-letter-to-appear-twice](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
 ## String Matching
 |  |
@@ -92,4 +94,8 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 |  |
 | ------- |
 | [2427-first-letter-to-appear-twice](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
