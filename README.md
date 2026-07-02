@@ -14,6 +14,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0009-palindrome-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0263-ugly-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [2619-categorize-box-according-to-criteria](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2619-categorize-box-according-to-criteria) |
