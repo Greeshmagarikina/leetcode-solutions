@@ -86,12 +86,14 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0002-add-two-numbers](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0203-remove-linked-list-elements](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0203-remove-linked-list-elements](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 ## Counting
 |  |
 | ------- |
