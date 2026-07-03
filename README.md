@@ -14,6 +14,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0009-palindrome-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -106,5 +107,10 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0412-fizz-buzz) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
