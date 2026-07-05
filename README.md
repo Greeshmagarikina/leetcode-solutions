@@ -31,6 +31,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0088-merge-sorted-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -40,6 +41,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0001-two-sum](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0268-missing-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
@@ -90,6 +92,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0268-missing-number) |
 ## Linked List
@@ -115,6 +118,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0169-majority-element) |
 | [2427-first-letter-to-appear-twice](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
 ## Simulation
 |  |
@@ -125,4 +129,8 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0258-add-digits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
