@@ -35,6 +35,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0217-contains-duplicate](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0217-contains-duplicate](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [2427-first-letter-to-appear-twice](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
 ## Two Pointers
 |  |
@@ -57,6 +59,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0141-linked-list-cycle](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String
@@ -90,6 +93,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0069-sqrtx](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -98,6 +102,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0217-contains-duplicate](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
