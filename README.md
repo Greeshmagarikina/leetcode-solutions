@@ -38,6 +38,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0268-missing-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [2551-apply-operations-to-an-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0349-intersection-of-two-arrays](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2551-apply-operations-to-an-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
 ## String
 |  |
 | ------- |
@@ -150,6 +152,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | ------- |
 | [0258-add-digits](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [2551-apply-operations-to-an-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
 ## Number Theory
 |  |
 | ------- |
