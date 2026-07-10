@@ -20,6 +20,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0268-missing-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
+| [1031-add-to-array-form-of-integer](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [2619-categorize-box-according-to-criteria](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2619-categorize-box-according-to-criteria) |
 ## Array
 |  |
@@ -40,6 +41,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0283-move-zeroes](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1031-add-to-array-form-of-integer](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [2551-apply-operations-to-an-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
 ## Hash Table
 |  |
