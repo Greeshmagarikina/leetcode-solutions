@@ -13,6 +13,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0002-add-two-numbers](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0263-ugly-number) |
@@ -79,6 +80,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0020-valid-parentheses](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [2427-first-letter-to-appear-twice](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
@@ -89,6 +91,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -153,6 +156,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [2551-apply-operations-to-an-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
