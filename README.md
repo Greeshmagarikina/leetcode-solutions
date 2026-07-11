@@ -33,6 +33,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0066-plus-one](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0169-majority-element) |
@@ -169,6 +170,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0169-majority-element) |
 ## Merge Sort
@@ -187,6 +189,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0094-binary-tree-inorder-traversal](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -199,9 +202,14 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0094-binary-tree-inorder-traversal](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
