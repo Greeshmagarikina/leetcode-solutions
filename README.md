@@ -218,4 +218,8 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Enumeration
+|  |
+| ------- |
+| [1212-sequential-digits](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1212-sequential-digits) |
 <!---LeetCode Topics End-->
