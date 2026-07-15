@@ -23,6 +23,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0445-add-two-numbers-ii](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [1031-add-to-array-form-of-integer](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [2619-categorize-box-according-to-criteria](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2619-categorize-box-according-to-criteria) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
 | ------- |
@@ -172,6 +173,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0258-add-digits) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Divide and Conquer
 |  |
 | ------- |
