@@ -200,6 +200,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0144-binary-tree-preorder-traversal](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0445-add-two-numbers-ii](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Tree
 |  |
@@ -212,6 +213,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0144-binary-tree-preorder-traversal](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
@@ -223,6 +225,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0144-binary-tree-preorder-traversal](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
