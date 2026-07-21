@@ -22,6 +22,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0268-missing-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
+| [0728-self-dividing-numbers](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [1031-add-to-array-form-of-integer](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2619-categorize-box-according-to-criteria](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2619-categorize-box-according-to-criteria) |
