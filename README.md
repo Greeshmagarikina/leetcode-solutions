@@ -25,6 +25,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0728-self-dividing-numbers](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1031-add-to-array-form-of-integer) |
+| [1236-n-th-tribonacci-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2619-categorize-box-according-to-criteria](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2619-categorize-box-according-to-criteria) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
@@ -122,6 +123,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0118-pascals-triangle](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -278,6 +280,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 ## Matrix
 |  |
 | ------- |
