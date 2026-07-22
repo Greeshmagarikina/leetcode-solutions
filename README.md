@@ -23,6 +23,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0412-fizz-buzz](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0728-self-dividing-numbers](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
+| [1013-fibonacci-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2619-categorize-box-according-to-criteria](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2619-categorize-box-according-to-criteria) |
@@ -120,6 +121,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0070-climbing-stairs](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -170,6 +172,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0024-swap-nodes-in-pairs](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Counting
 |  |
 | ------- |
@@ -274,6 +277,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
