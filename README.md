@@ -87,6 +87,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0283-move-zeroes](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0861-flipping-an-image](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
@@ -101,6 +102,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0067-add-binary](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [2427-first-letter-to-appear-twice](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
 ## String Matching
