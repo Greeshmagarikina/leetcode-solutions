@@ -105,6 +105,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0345-reverse-vowels-of-a-string](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [2427-first-letter-to-appear-twice](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
+| [2886-faulty-keyboard](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2886-faulty-keyboard) |
 ## String Matching
 |  |
 | ------- |
@@ -190,6 +191,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0412-fizz-buzz](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0861-flipping-an-image](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0861-flipping-an-image) |
 | [2551-apply-operations-to-an-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
+| [2886-faulty-keyboard](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2886-faulty-keyboard) |
 ## Number Theory
 |  |
 | ------- |
