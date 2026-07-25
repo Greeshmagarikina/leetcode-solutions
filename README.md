@@ -54,6 +54,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [1031-add-to-array-form-of-integer](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1256-rank-transform-of-an-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
+| [2881-split-strings-by-separator](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2881-split-strings-by-separator) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +110,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0953-reverse-only-letters](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0953-reverse-only-letters) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2427-first-letter-to-appear-twice](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
+| [2881-split-strings-by-separator](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2886-faulty-keyboard) |
 | [4200-reverse-letters-then-special-characters-in-a-string](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/4200-reverse-letters-then-special-characters-in-a-string) |
 ## String Matching
