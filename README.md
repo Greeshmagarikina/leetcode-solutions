@@ -50,6 +50,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0283-move-zeroes](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0500-keyboard-row](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0861-flipping-an-image](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [1031-add-to-array-form-of-integer](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1031-add-to-array-form-of-integer) |
@@ -69,6 +70,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0242-valid-anagram](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0500-keyboard-row](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [1256-rank-transform-of-an-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
 ## Two Pointers
@@ -109,6 +111,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0344-reverse-string](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0500-keyboard-row](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0953-reverse-only-letters](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0953-reverse-only-letters) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1894-merge-strings-alternately](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
