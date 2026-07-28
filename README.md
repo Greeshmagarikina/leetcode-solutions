@@ -118,6 +118,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [2427-first-letter-to-appear-twice](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2881-split-strings-by-separator](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2886-faulty-keyboard) |
+| [3617-find-the-original-typed-string-i](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/3617-find-the-original-typed-string-i) |
 | [4200-reverse-letters-then-special-characters-in-a-string](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/4200-reverse-letters-then-special-characters-in-a-string) |
 ## String Matching
 |  |
