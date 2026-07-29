@@ -55,6 +55,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0898-transpose-matrix](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [1031-add-to-array-form-of-integer](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1256-rank-transform-of-an-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2551-apply-operations-to-an-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2881-split-strings-by-separator](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2881-split-strings-by-separator) |
 ## Hash Table
@@ -115,6 +116,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0953-reverse-only-letters](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0953-reverse-only-letters) |
 | [1078-remove-outermost-parentheses](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 | [2427-first-letter-to-appear-twice](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2881-split-strings-by-separator](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2881-split-strings-by-separator) |
