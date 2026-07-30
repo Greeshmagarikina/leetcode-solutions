@@ -119,6 +119,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0920-uncommon-words-from-two-sentences](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0953-reverse-only-letters) |
 | [1078-remove-outermost-parentheses](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1205-defanging-an-ip-address](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
