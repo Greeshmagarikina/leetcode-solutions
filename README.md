@@ -53,6 +53,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0500-keyboard-row](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0861-flipping-an-image](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0898-transpose-matrix) |
+| [1019-squares-of-a-sorted-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1256-rank-transform-of-an-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -99,6 +100,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0861-flipping-an-image](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0953-reverse-only-letters) |
+| [1019-squares-of-a-sorted-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2551-apply-operations-to-an-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
@@ -169,6 +171,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0242-valid-anagram](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1019-squares-of-a-sorted-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 ## Linked List
 |  |
