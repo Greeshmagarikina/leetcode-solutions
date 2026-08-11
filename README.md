@@ -75,6 +75,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0349-intersection-of-two-arrays](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0500-keyboard-row) |
+| [0782-jewels-and-stones](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
@@ -121,6 +122,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0412-fizz-buzz](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0782-jewels-and-stones](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0953-reverse-only-letters) |
 | [1078-remove-outermost-parentheses](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
