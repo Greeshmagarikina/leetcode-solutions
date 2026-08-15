@@ -95,6 +95,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0148-sort-list](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -199,6 +200,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0160-intersection-of-two-linked-lists](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
@@ -213,6 +215,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0024-swap-nodes-in-pairs](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Counting
 |  |
@@ -254,6 +257,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0094-binary-tree-inorder-traversal](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
