@@ -49,6 +49,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0136-single-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -76,6 +77,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0169-majority-element](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -389,4 +391,8 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
