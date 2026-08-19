@@ -18,6 +18,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0069-sqrtx](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0268-missing-number) |
@@ -163,6 +164,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | ------- |
 | [0067-add-binary](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0342-power-of-four) |
@@ -232,6 +234,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0024-swap-nodes-in-pairs](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1013-fibonacci-number) |
