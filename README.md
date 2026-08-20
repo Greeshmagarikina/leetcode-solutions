@@ -69,6 +69,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2881-split-strings-by-separator](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2881-split-strings-by-separator) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -260,6 +261,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0898-transpose-matrix](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [2551-apply-operations-to-an-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2886-faulty-keyboard](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2886-faulty-keyboard) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [4200-reverse-letters-then-special-characters-in-a-string](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/4200-reverse-letters-then-special-characters-in-a-string) |
 ## Number Theory
 |  |
