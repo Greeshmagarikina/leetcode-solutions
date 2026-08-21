@@ -65,6 +65,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [1019-squares-of-a-sorted-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1256-rank-transform-of-an-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
@@ -209,6 +210,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0561-array-partition](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0561-array-partition) |
 | [1019-squares-of-a-sorted-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -415,4 +417,8 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
