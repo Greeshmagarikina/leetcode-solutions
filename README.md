@@ -30,6 +30,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [1013-fibonacci-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
+| [1395-minimum-time-visiting-all-points](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1395-minimum-time-visiting-all-points) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2619-categorize-box-according-to-criteria](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2619-categorize-box-according-to-criteria) |
@@ -67,6 +68,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [1019-squares-of-a-sorted-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1256-rank-transform-of-an-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1395-minimum-time-visiting-all-points](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1395-minimum-time-visiting-all-points) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -423,4 +425,8 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Geometry
+|  |
+| ------- |
+| [1395-minimum-time-visiting-all-points](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1395-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
