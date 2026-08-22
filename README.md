@@ -32,6 +32,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [1236-n-th-tribonacci-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2619-categorize-box-according-to-criteria](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2619-categorize-box-according-to-criteria) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
