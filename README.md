@@ -64,6 +64,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0414-third-maximum-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0500-keyboard-row](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0561-array-partition) |
+| [0824-number-of-lines-to-write-string](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0824-number-of-lines-to-write-string) |
 | [0861-flipping-an-image](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -154,6 +155,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0696-count-binary-substrings](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0742-to-lower-case](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0782-jewels-and-stones) |
+| [0824-number-of-lines-to-write-string](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0824-number-of-lines-to-write-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0953-reverse-only-letters) |
 | [1078-remove-outermost-parentheses](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
