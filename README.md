@@ -24,6 +24,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0268-missing-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0728-self-dividing-numbers](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
@@ -150,6 +151,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0387-first-unique-character-in-a-string](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -187,6 +189,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0338-counting-bits](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0861-flipping-an-image](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0861-flipping-an-image) |
 | [2427-first-letter-to-appear-twice](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
 ## Dynamic Programming
