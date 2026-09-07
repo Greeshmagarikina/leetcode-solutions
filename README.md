@@ -22,6 +22,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0258-add-digits](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -456,4 +457,24 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
