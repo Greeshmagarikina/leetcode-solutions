@@ -74,6 +74,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [1019-squares-of-a-sorted-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1256-rank-transform-of-an-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1306-minimum-absolute-difference](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1395-minimum-time-visiting-all-points) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -242,6 +243,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0561-array-partition](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0561-array-partition) |
 | [1019-squares-of-a-sorted-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1306-minimum-absolute-difference](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1306-minimum-absolute-difference) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Linked List
 |  |
