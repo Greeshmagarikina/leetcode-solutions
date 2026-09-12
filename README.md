@@ -83,6 +83,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [2551-apply-operations-to-an-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2881-split-strings-by-separator](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2881-split-strings-by-separator) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +110,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [1256-rank-transform-of-an-array](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [2427-first-letter-to-appear-twice](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -280,6 +282,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0326-power-of-three](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1013-fibonacci-number) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Counting
 |  |
 | ------- |
@@ -403,6 +406,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 |  |
 | ------- |
 | [1212-sequential-digits](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1212-sequential-digits) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
