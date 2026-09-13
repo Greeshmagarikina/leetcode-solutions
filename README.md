@@ -34,6 +34,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [1236-n-th-tribonacci-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1395-minimum-time-visiting-all-points) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2619-categorize-box-according-to-criteria](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2619-categorize-box-according-to-criteria) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
@@ -206,6 +207,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0476-number-complement](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0861-flipping-an-image](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/0861-flipping-an-image) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2427-first-letter-to-appear-twice](https://github.com/Greeshmagarikina/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
 ## Dynamic Programming
 |  |
